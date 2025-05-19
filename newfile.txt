@@ -2,3 +2,4 @@ CHANGES IN DEVELOP BRANCH
 one more
 
 Stash lecture, change in newfile
+echo function is addin new lines
